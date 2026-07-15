@@ -156,19 +156,19 @@ Business Insights
 
 ### Executive Overview
 
-![Executive Dashboard](images/executive_overview.png)
+![Executive Dashboard](Dashboard_Images/Dashboard_1.png)
 
 ---
 
 ### Customer Churn Analysis
 
-![Customer Churn Dashboard](images/churn_analysis.png)
+![Customer Churn Dashboard](Dashboard_Images/Dashboard_2.png)
 
 ---
 
 ### Revenue & Customer Insights
 
-![Revenue Dashboard](images/revenue_insights.png)
+![Revenue Dashboard](Dashboard_Images/Dashboard_3.png)
 
 ---
 
